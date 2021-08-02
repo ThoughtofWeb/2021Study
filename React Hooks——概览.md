@@ -8,7 +8,7 @@
 3. `Hooks`允许在函数组件中，调用`React`的功能。
 4. 使用自定义`Hook`可以简化逻辑复用。
 5. `Hooks`是`React`的未来
-6. `Hooks`不是什么魔法。`Hooks`的设计也与`React`无关。
+6. `Hooks`不是什么魔法。`Hooks`的设计也与`React`无关。 
 
 
 
